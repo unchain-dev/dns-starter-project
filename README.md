@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/T5Zjw3f.png)
 
-# 📛 Create an original domain name system on Polygon.
+# 📛 Create an original domain name service on Polygon.
 
 このコースを始めるには、下記のステップを実行してください。
 
